@@ -2,7 +2,7 @@
 
 // 1. Hardcoded unavailable dates (ISO format, yyyy-mm-dd)
 const UNAVAILABLE_DATES = [
-    { from: "2026-05-01", to: "2026-05-14" },
+    { from: "2026-05-24", to: "2026-06-07" },
 ];
 
 class BookingCalendar {
